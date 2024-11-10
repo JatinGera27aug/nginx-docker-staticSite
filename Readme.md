@@ -4,7 +4,7 @@ This project demonstrates how to host a static website using NGINX in a Docker c
 
 ## Steps to Run
 
-git clone https://github.com/your-username/your-repo.git
+git clone [https://github.com/your-username/your-repo.git](https://github.com/JatinGera27aug/nginx-docker-staticSite.git)
 cd your-repo
 docker build -t multipage-static-website .
 docker run -d -p 80:80 multipage-static-website
